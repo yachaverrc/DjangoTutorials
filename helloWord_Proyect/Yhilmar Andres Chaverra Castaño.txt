@@ -1,0 +1,3 @@
+Actualización del repositorio con el tutorial 3 terminado.
+
+https://github.com/yachaverrc/DjangoTutorials
